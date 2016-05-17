@@ -5,6 +5,6 @@ Samuel Toloza
 
 ##Uso
 
-python validarut.py <rut>
+python validarut.py {rut}
 
 Devolverá True o False dependiendo de la validez del rut
